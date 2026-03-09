@@ -1,0 +1,19 @@
+<Meta>
+	<title>Land Usurpation Deed</title>
+	<id>usurpation_deed</id>
+	<author>yourname</author>
+	<loadPriority>100</loadPriority>
+	<description>Adds the "Land Usurpation Deed" — a new item that allows you to claim any player-published base visited via Moongate or Stargate directly on the world map. Stand on the cell of the target base, use the deed, choose which of your home branches to relocate there, and confirm. The foreign base is destroyed and your branch takes its place.
+
+The original Land Deed (Relocate) is not modified by this mod.
+
+[h2]How to get it[/h2]
+Use the debug console: item deed_usurpation
+
+[h2]Requirements[/h2]
+- Must be used from the world map.
+- The cell must contain a player-published Zone_User base (visited via Moongate/Stargate).
+- Cannot be used on your own faction zones.</description>
+	<version>1.0.0</version>
+	<tags>General</tags>
+</Meta>
