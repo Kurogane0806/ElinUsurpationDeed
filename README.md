@@ -10,8 +10,7 @@ Adds the **Land Usurpation Deed** — a new item that lets you claim any player-
 base as your own territory.
 
 Player bases (`Zone_User`) are only accessible via Moongate — they cannot be entered
-directly from the world map. So unlike the vanilla Land Deed (used *on* the world map),
-the Usurpation Deed is used **from inside** the target base after entering it via Moongate.
+directly from the world map.
 
 | Where you are | Result |
 |---|---|
